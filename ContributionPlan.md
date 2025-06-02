@@ -1,29 +1,29 @@
-# 🧭 CONTRIBUTION_PLAN.md – Assignment 15
+#  CONTRIBUTION_PLAN.md – Assignment 15
 
 This plan outlines the peer projects I selected and the contributions I intend to make as part of Assignment 15: Cross-Project Contributions.
 
 ---
 
-## 🔍 Selected Peer Repositories
+##  Selected Peer Repositories
 
-### 1. 📁 **Smart Waste Bin Monitoring System**
+### 1.  **Smart Waste Bin Monitoring System**
 - GitHub: [https://github.com/peer1/smart-waste-bin](https://github.com/peer1/smart-waste-bin)
 - Identified Issue: *Add unit tests for sensor polling module*
 - Strategy: Contribute tests first, followed by minor refactor suggestions
 
-### 2. 📁 **Online Learning Quiz Platform**
+### 2.  **Online Learning Quiz Platform**
 - GitHub: [https://github.com/peer2/online-quiz-platform](https://github.com/peer2/online-quiz-platform)
 - Identified Issue: *Improve README with setup and database instructions*
 - Strategy: Contribute a fully rewritten `README.md` + Docker instructions
 
-### 3. 📁 **Campus Event Management Tool**
+### 3.  **Campus Event Management Tool**
 - GitHub: [https://github.com/peer3/campus-event-tool](https://github.com/peer3/campus-event-tool)
 - Identified Issue: *Fix bug with date filter on mobile*
 - Strategy: Submit frontend fix + screenshot of working UI
 
 ---
 
-## ✅ Contribution Strategy
+##  Contribution Strategy
 
 | Step | Action Description                                     |
 |------|--------------------------------------------------------|
