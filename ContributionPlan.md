@@ -1,37 +1,39 @@
-# 🧠 REFLECTION.md – Assignment 15
+# 🧭 CONTRIBUTION_PLAN.md – Assignment 15
 
-This reflection documents my experience contributing to peer repositories during Assignment 15: Cross-Project Collaboration.
-
----
-
-## 🧪 What I Learned
-
-### 🤝 Collaborative Open Source
-By working on peer projects, I learned how to respect another developer’s codebase, adhere to their contribution guidelines, and communicate effectively through issues and pull requests. Open-source collaboration helped sharpen my ability to read, understand, and modify unfamiliar code.
-
-### 🔁 Revisions and Feedback
-Receiving feedback on PRs taught me the importance of clarity in code and documentation. In one case, a reviewer suggested splitting a commit and improving the test description. This helped me improve my workflow and write cleaner commits in later PRs.
-
-### ⚙️ CI/CD Understanding
-Each repository had its own GitHub Actions pipeline. I learned how CI failures are used as blockers for PRs and how code formatting, linting, and test execution are automated. This reinforced the importance of pipelines for code health.
+This plan outlines the peer projects I selected and the contributions I intend to make as part of Assignment 15: Cross-Project Contributions.
 
 ---
 
-## 🚧 Challenges Faced
+## 🔍 Selected Peer Repositories
 
-- **Understanding Code Quickly**: It was challenging to step into someone else's project and make confident contributions without breaking existing functionality.
-- **Staying Within Scope**: I had to resist the urge to fix unrelated issues and focus on solving just the ticketed bug or improvement.
-- **Communicating with Peers**: Waiting for issue confirmations or reviews required patience and follow-up.
+### 1. 📁 **Smart Waste Bin Monitoring System**
+- GitHub: [https://github.com/peer1/smart-waste-bin](https://github.com/peer1/smart-waste-bin)
+- Identified Issue: *Add unit tests for sensor polling module*
+- Strategy: Contribute tests first, followed by minor refactor suggestions
+
+### 2. 📁 **Online Learning Quiz Platform**
+- GitHub: [https://github.com/peer2/online-quiz-platform](https://github.com/peer2/online-quiz-platform)
+- Identified Issue: *Improve README with setup and database instructions*
+- Strategy: Contribute a fully rewritten `README.md` + Docker instructions
+
+### 3. 📁 **Campus Event Management Tool**
+- GitHub: [https://github.com/peer3/campus-event-tool](https://github.com/peer3/campus-event-tool)
+- Identified Issue: *Fix bug with date filter on mobile*
+- Strategy: Submit frontend fix + screenshot of working UI
 
 ---
 
-## 🌍 Broader Takeaways
+## ✅ Contribution Strategy
 
-- Open-source work strengthens your reading, testing, and communication skills.
-- CI pipelines are powerful but unforgiving — one small mistake can block a merge.
-- Small, focused contributions (e.g., test coverage, doc updates) are highly valued in peer projects.
+| Step | Action Description                                     |
+|------|--------------------------------------------------------|
+| 1    | Clone and explore peer repositories                    |
+| 2    | Identify labeled beginner tasks and bug fixes          |
+| 3    | Comment on issues to claim                             |
+| 4    | Submit targeted pull requests with clean commits       |
+| 5    | Document merged PRs in `MERGED_PRS.md`                 |
+| 6    | Reflect on feedback received in `REFLECTION.md`        |
 
-This assignment gave me hands-on practice in cross-repo teamwork, a critical real-world skill for any developer.
+---
 
-📅 Completed: May 2025
-
+📅 Plan Last Updated: May 2025
